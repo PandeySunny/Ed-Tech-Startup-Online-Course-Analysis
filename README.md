@@ -36,7 +36,6 @@ This repository contains a comprehensive analysis for an EdTech startup aiming t
 ## 🛠️ Tools and Techniques
 - **Data Cleaning and Transformation**: Power Query (Power BI)
 - **Visualization and Dashboarding**: Power BI
-- **Statistical Analysis**: Python
 - **Data Insights**: Advanced filtering, aggregation, and distribution analysis.
 
 ---
@@ -60,26 +59,13 @@ The interactive dashboard includes:
 ---
 
 ## 📋 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/edtech-analysis.git
-   ```
-2. Open the `.pbix` file in Power BI Desktop.
-3. Explore insights via the prebuilt dashboard.
+
+1. Open the `.pbix` file in Power BI Desktop.
+2. Explore insights via the prebuilt dashboard.
 
 ---
 
 ## 🤝 Contributing
 Contributions are welcome! If you have ideas for improving the analysis or dashboard, feel free to fork the repo and submit a pull request.
 
----
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👩‍💻 Contact
-For inquiries or collaboration:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
